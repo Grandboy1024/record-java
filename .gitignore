@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
 
-# vscode
 .idea
+.DS_Store
 
 # Log file
 *.log
